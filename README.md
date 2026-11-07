@@ -2,7 +2,7 @@
 
 Nama : Queenisa Cantik Rabbani
 
-Deskripsi Singkat:
+Deskripsi:
 Repository ini berisi tentang dokumentasi kegiatan workshop "Building with AI, Managing Change with GitHub" yaitu materi acara dari mengajartik. Isi Readme ini adalah catatan materi, rangkuman, dan poin-poin penting yang saya pelajari selama workshop.
 
 Tujuan dan kegunaan repository:
